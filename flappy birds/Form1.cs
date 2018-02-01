@@ -270,7 +270,7 @@ namespace flappy_birds
                     step = -5;
                     pictureBox1.Image = Resources.bird_straight;
                     break;
-
+//Bau bau bau 
 
             }
         }
